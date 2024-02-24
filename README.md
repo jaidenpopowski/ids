@@ -1,1 +1,1 @@
-Data collection using R for the game <a href="footygrid.com">FootyGrid</a>
+Data collection using R for the game <a href="https://footygrid.com">FootyGrid</a>
